@@ -1,2 +1,2 @@
-This repository conbsists of Machine Learning projects
+This repository consists of Machine Learning projects
 # ML-projects
